@@ -1,7 +1,7 @@
 Project plan for investigation of what is PCA and how it is used:
-1. Research the math behind PCA and present it step by step using LaTex markdown
-2. Research uses of PCA and choose a suitable set
-3. Explore the dataset by visualizing correlations and employing other techniques
+1. Research the math behind PCA and present it step by step using LaTex markdown.
+2. Research uses of PCA and choose a suitable dataset.
+3. Explore the dataset by visualizing correlations and employing other techniques.
 4. Check tutorials on how PCA is implemented in Python.
 5. Try implementing PCA on the chosen dataset. Test and reason on the results.
 6. Research how to best present the results graphically.
